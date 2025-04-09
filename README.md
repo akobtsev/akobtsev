@@ -10,8 +10,8 @@
 - 🌍 I speak English
 
 ---
-### My Testnet nodes
-- ⛓️ Massa, SSV, Masa, SubQuery, Nibiru, Kyve, Massa, Exorde, Ironfish, QUAI
+### My previous testnet nodes
+- ⛓️ Massa, SSV, Masa, SubQuery, Nibiru, Kyve, Massa, Exorde, Ironfish, Taiko, QUAI
 
 
 ### Programming languages and tools
