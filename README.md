@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi!👋 My name is Andrey. I am an individual validator and blockchain enthusiast.
 
-<!--
-**akobtsev/akobtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🅱️ BeStake validator
 
-Here are some ideas to get you started:
+### About me
+- ⛓️ I have 3yrs experience in running a cryptocurrency project nodes, have taken a part in more than a twenty testnets and currently validate Massa on mainnet.
+- 🌱 I’m currently learning **Cosmos ecosystem PoS validating, Web3**.
+- 📫 Interested in DeFi, ReFi, and RWA blockchains.
+- 👯 I’m looking to collaborate on intersting blockchain projects to learn Go, Rust and smart contracts technology.
+- 📄 Software developer with wide experience in various areas.
+- 📧 Reach me by [email](mailto:arxagon@gmail.com)
+- 🌍 I speak English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+## My Testnet nodes
+- ⛓️ Massa, SSV, Masa, SubQuery, Nibiru, Kyve, Massa, Exorde, Ironfish, QUAI
+
+
+### Programming languages and tools
+- 🛠️ C++, C#, Python, JavaScript, Bash, SQL
+
+---
+
