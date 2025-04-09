@@ -1,5 +1,3 @@
-## <img alt="BeStake" src="https://github.com/akobtsev/bestake/blob/main/logo-bs2.png" /> BeStake validator
-
 ### Hi!👋 My name is Andrey. I am an individual @BeStake validator and blockchain enthusiast.
 
 ### About me
