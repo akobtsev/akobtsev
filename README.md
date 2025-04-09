@@ -8,7 +8,7 @@
 - 📫 Interested in DeFi, ReFi, and RWA blockchains.
 - 👯 I’m looking to collaborate on intersting blockchain projects to learn Go, Rust and smart contracts technology.
 - 📄 Software developer with wide experience in various areas.
-- 📧 Reach me by Telegram: [@Andrey_Kobtsev] (https://t.me/Andrey_Kobtsev) or [andrey.kobtsev@gmail.com](mailto:andrey.kobtsev@gmail.com)
+- 📧 Reach me by Telegram: [@Andrey_Kobtsev](https://t.me/Andrey_Kobtsev) or Email: [andrey.kobtsev@gmail.com](mailto:andrey.kobtsev@gmail.com)
 - 🌍 I speak English
 
 ---
