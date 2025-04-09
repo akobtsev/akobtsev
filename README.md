@@ -1,4 +1,4 @@
-## 🅱️ BeStake validator
+## :BS: BeStake validator
 
 ### Hi!👋 My name is Andrey. I am an individual validator and blockchain enthusiast.
 
