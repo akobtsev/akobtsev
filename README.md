@@ -10,6 +10,8 @@
 - 🌍 I speak English
 
 ---
+### My mainnet nodes
+- ⛓️ Massa
 ### My previous testnet nodes
 - ⛓️ Massa, SSV, Masa, SubQuery, Nibiru, Kyve, Massa, Exorde, Ironfish, Taiko, QUAI
 
