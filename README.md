@@ -1,7 +1,7 @@
-### Hi!👋 I'm is Andrey Kobtsev. I am an individual validator and blockchain enthusiast.
+### Hi!👋 I'm Andrey Kobtsev. I am an individual validator and blockchain enthusiast.
 
 ### About me
-- ⛓️ I have 3yrs experience in running a cryptocurrency project nodes, have taken a part in more than a twenty testnets and currently validate Massa on mainnet.
+- ⛓️ I have 3yrs experience in running a cryptocurrency project nodes, have taken a part in more than a twenty testnets and currently validate Massa on mainnet. 
 - 🌱 I’m currently learning **Cosmos ecosystem PoS validating, Web3**.
 - 📫 Interested in DeFi, ReFi, and RWA blockchains.
 - 👯 I’m looking to collaborate on intersting blockchain projects to learn Go, Rust and smart contracts technology.
