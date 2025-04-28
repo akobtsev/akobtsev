@@ -13,11 +13,11 @@
 ### My mainnet nodes
 - ⛓️ Massa
 ### My previous testnet nodes
-- ⛓️ Massa, SSV, Masa, SubQuery, Nibiru, Kyve, Massa, Exorde, Ironfish, Taiko, QUAI
+- ⛓️ Massa, SSV, Ironfish, Taiko, QUAI, Masa, Starknet, Defund, SubQuery, Nibiru, Kyve, Exorde, Minima
 
 
 ### Programming languages and tools
-- 🛠️ C++, C#, Python, JavaScript, Bash, SQL
+- 🛠️ C++, C#, Go, Python, JavaScript, Bash, SQL
 
 ---
 
