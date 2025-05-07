@@ -11,7 +11,7 @@
 
 ---
 ### My mainnet nodes
-- ⛓️ Massa
+- ⛓️ Planq, Massa
 ### My previous testnet nodes
 - ⛓️ Massa, SSV, Ironfish, Taiko, QUAI, Masa, Starknet, Defund, SubQuery, Nibiru, Kyve, Exorde, Minima
 
