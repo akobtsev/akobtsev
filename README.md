@@ -1,4 +1,6 @@
 ### Hi!👋 I'm Andrey Kobtsev, Alumnus of Validator School and blockchain enthusiast.
+You can find me (DreamyAngler) here:
+https://daodao.zone/dao/juno1pn54yshdvzjj87qaux8ev33twm4nuhcwyf0uefhcdk77v2jdpc5sgw5wrk/proposals/A55#A5
 
 ### About me
 - ⛓️ I have 3yrs experience in running a cryptocurrency project nodes, have taken a part in more than a twenty testnets and currently validate Planq and Massa. **Moniker: DreamyAngler**.
